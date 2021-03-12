@@ -1,21 +1,21 @@
-import somePicture from './components/img/bild1.jpg'
+// import somePicture from './components/img/bild1.jpg'
 import './App.css';
-import CarITem from './components/CarItem';
-import FilmList from './components/FilmList';
+// import CarITem from './components/CarItem';
+// import FilmList from './components/FilmList';
 import TodoList from './components/TodoList';
 // import Collapsible from 'react-collapsible';
-let cars = [
-  {
-    car: 'Audi',
-    carModel: 'A6',
-    carYear: '2007'
-  },
-  {
-    car: 'Audi',
-    carModel: 'A3',
-    carYear: '2021'
-  }
-]
+// let cars = [
+//   {
+//     car: 'Audi',
+//     carModel: 'A6',
+//     carYear: '2007'
+//   },
+//   {
+//     car: 'Audi',
+//     carModel: 'A3',
+//     carYear: '2021'
+//   }
+// ]
 function App() {
   return (
     //  jsx
